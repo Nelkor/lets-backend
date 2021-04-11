@@ -23,7 +23,7 @@
 ## Что доступно
 
 * TypeScript
-* ESLint
+* ESLint + Prettier
 * Jest (для тестов создаём файлы `[имя].spec.ts`)
 
 Можно добавлять алиасы в `tsconfig.json`, они подхватятся автоматически
